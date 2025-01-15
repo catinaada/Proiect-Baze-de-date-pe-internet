@@ -1,0 +1,14 @@
+﻿body {
+    font-family: Georgia;
+    font-style: oblique;
+}
+h2 {
+    align-content:center;
+}
+li a {
+    font-family: Georgia, serif;
+    font-style: oblique;
+}
+li a:hover {
+    font-weight: bold;
+}
